@@ -1,6 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Time spent: About one hour to program and record video.
 
 This software is used to print "Hello, World!". I have added an introduction also so it asks for username and the will print, "Hello, username!".
 
